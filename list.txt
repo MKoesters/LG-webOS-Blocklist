@@ -29,3 +29,16 @@
 ||eu.ad.lgsmartad.com^
 ||eu.ibs.lgappstv.com^
 ||eu.info.lgsmartad.com^
+
+||ngfts.lge.com^
+||snu.lge.com^
+||lgsmartad.com^
+||cdpbeacon.lgtcommon.com^
+||cdpsvc.lgtvcommon.com^
+||homeprv.lgtvcommon.com^
+||nudge.lgtvcommon.com^
+||rdl.lgtvcommon.com^
+||recommend.lgtvcommon.com^
+||service.lgtvcommon.com^
+||prov-lg.alphonso.tv^
+||ueiwsp.com^
