@@ -19,3 +19,13 @@
 ||de.tvsdp.lgeapi.com^
 ||de.emp.lgsmartplatform.com^
 ||de.lgeapi.com^
+
+||eic-gfts.lge.com^
+||eic-ngfts.lge.com^
+||eic-ocp.lgtviot.com^
+||eic.lgtviot.com^
+||eic.sports.lgtviot.com^
+||eic.wiseconfig.lgtvcommon.com^
+||eu.ad.lgsmartad.com^
+||eu.ibs.lgappstv.com^
+||eu.info.lgsmartad.com^
