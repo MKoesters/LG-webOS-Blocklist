@@ -9,3 +9,13 @@
 ||lgtvonline.lge.com^
 ||www.ueiwsp.com^
 ||mediaservices.cdn-apple.com^
+
+||de.ad.lgsmartad.com^
+||de.info.lgsmartad.com^
+||de.ibs.lgappstv.com^
+||de.lgrecommends.lgappstv.com^
+||de.lgtvsdp.com^
+||de.rdx2.lgtvsdp.com^
+||de.tvsdp.lgeapi.com^
+||de.emp.lgsmartplatform.com^
+||de.lgeapi.com^
